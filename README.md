@@ -1,7 +1,6 @@
 # 🍽️ Análisis de Datos de Restaurante con SQL
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
-![Status](https://img.shields.io/badge/status-completed-green.svg)
 
 ## 📊 Descripción del Proyecto
 
